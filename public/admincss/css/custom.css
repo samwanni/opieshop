@@ -1,0 +1,148 @@
+/* admin.add_product */
+
+.div_deg_add{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+}
+.label_add {
+    display:inline-block;
+    width: 200px;
+    font-size: 18px!important;
+    color: white!important;
+}
+.input_add{
+    width: 350px;
+    height: 50px;
+}
+.textarea_add{
+    width: 450px;
+    height: 80px;
+}
+.input_deg_add{
+    padding: 15px;
+}
+
+/* admin.category */
+
+.input_cat
+{
+    width: 400px;
+    height: 50px;
+}
+.div_deg_cat {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin: 30px;
+}
+.table_deg_cat {
+    text-align: center;
+    margin: auto;
+    border: 2px solid pink;
+    margin-top: 50px;
+    width: 600px;
+}
+.th_cat {
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+.td_cat {
+    padding: 10px;
+    border: 1px, solid pink;
+}
+
+/* admin.edit_category */
+
+.div_deg_edit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 60px;
+}
+.input_edit{
+    width: 400px;
+    height: 50px;
+}
+
+/* admin.order */
+
+.table_ord{
+    border: 2px solid pink;
+    text-align: center;
+}
+.th_ord{
+    color: white;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+    padding: 15px;
+}
+.td_ord{
+    border: 1px solid pink;
+    text-align: center;
+    word-break: break-all;
+}
+.table_center_ord{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* admin.update_page */
+.div_deg_update{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.label_update{
+    display: inline-block;
+    width: 200px;
+    padding: 20px;
+}
+.textarea_update{
+    width: 450px;
+    height: 100px;
+}
+.input_update{
+    width: 300px;
+    height: 60px;
+}
+
+/* admin.view_product */
+
+.div_deg_view{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    
+}
+.table_deg_view{
+    border: 2px solid pink;
+    
+}
+.th_view{
+    color: white;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bold;
+    padding: 15px;
+}
+.td_view{
+    border: 1px solid pink;
+    text-align: center;
+    word-break: break-all;
+    
+}
+.desc-td_view{
+    width: 500px;
+}
+.input_view{
+    width: 500px;
+    
+    margin-left: 50px;
+}
